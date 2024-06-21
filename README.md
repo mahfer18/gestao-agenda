@@ -1,7 +1,7 @@
 # gestao-agenda
-Java Web -  Gestão 
-Projeto desenvolvido com as tecnologias:
+Java Web -  Gestão de agenda
 
+Projeto desenvolvido com as tecnologias:
 * Java
 * JSP
 * Servlet
